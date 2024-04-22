@@ -1,6 +1,6 @@
 # TZCodex-Optimus-
 Тестовое задание QA Manual 
- Codex Optimus 
+ Codex Optimus - ссылка на результат выполнения https://docs.google.com/spreadsheets/d/1pEyXqW1kqJjHZNFY1U4Bb9sjZEl76f_UWZDNWeGZn5s/edit?usp=sharing
 
 -----------------------------------
 
